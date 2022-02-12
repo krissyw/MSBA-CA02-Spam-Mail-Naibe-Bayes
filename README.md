@@ -25,6 +25,7 @@ understand the process at every step.
 
 ![Screen Shot 2022-02-11 at 7 12 55 PM](https://user-images.githubusercontent.com/61371423/153694673-149d4d14-181f-46e7-b95c-40c0e16ba8ae.png)
 
+7. Once the code is saved as a .py, it can be opened with BBEdit on a Mac or another text editor software. 
 
 # Install packages 
 
