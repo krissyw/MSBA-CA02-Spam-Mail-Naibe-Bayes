@@ -1,4 +1,5 @@
-# MSBA-CA02-Spam-Mail-Naibe-Bayes
+# MSBA-CA02-Spam-Mail-Naive-Bayes
+
 MSBA Computer Assignment 01 - Spam Mail Detection by Naive Bayes
 
 The sample code and dataset are downloaded from https://github.com/ArinB/MSBA-CA01-Spam-Mail-Naibe-Bayes.
